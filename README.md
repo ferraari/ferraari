@@ -1,11 +1,10 @@
-# Print("Hello, i'm ferrari") # 🚗
 ### 🧑  About me
 
 
 -   🤔    Learning new programming languages. and graphic design
--   🎓  Studying  **Web-Development**  
+-   🎓  Studying  **Java and Kotlin**  
 -  🧑   17 years old
--  📱   You can find me on discord at:: ferrari#7934
+-  📱   You can find me on discord at:          [![Discord](https://media.discordapp.net/attachments/929777781489946685/965568659164631090/unknown.png)](https://discord.com/users/794887769612222497)
 
 
  **🧑‍🎓I'm currently learning about;**
