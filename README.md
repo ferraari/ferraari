@@ -4,7 +4,8 @@
 -   🤔    Learning new programming languages. and graphic design
 -   🎓  Studying  **Java and JavaScript**  
 -  🧑   17 years old
--  📱   You can find me on discord at:          [![Discord](https://media.discordapp.net/attachments/929777781489946685/965568659164631090/unknown.png)](https://discord.com/users/794887769612222497)
+-  📱   You can find me on discord at:  
+ [![Discord Presence](https://lanyard.cnrad.dev/api/794887769612222497)](https://discord.com/users/794887769612222497)
 
 
  **🧑‍🎓I'm currently learning about;**
