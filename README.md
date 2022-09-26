@@ -5,7 +5,7 @@
 -   🎓  Studying  **Java and JavaScript**  
 -  🧑   17 years old
 -  📱   You can find me on discord at:  
- ![](https://dcbadge.vercel.app/api/shield/794887769612222497)
+ [![](https://dcbadge.vercel.app/api/shield/794887769612222497)](https://discord.com/users/794887769612222497)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferraari&show_icons=true&theme=radical) 
