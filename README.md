@@ -12,7 +12,7 @@
 <a href="https://discord.com/users/794887769612222497">
     <img src="https://user-images.githubusercontent.com/108017025/175112076-438b6e4f-5851-4ef2-b906-4f881798fd23.jpg" height="40px" weight="40px">
 </a>
-<a href="https://twitter.com/victor_santssz/">
+<a href="https://twitter.com/ferrarintc/">
     <img src="https://user-images.githubusercontent.com/108017025/175107973-c8f7ef8d-5803-45ca-9cbe-c2268cbe35ea.png" height="40px" weight="35px">
  </a>
 <a href="https://discord.com/users/818236451585654834" target="_blank">
