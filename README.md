@@ -16,3 +16,5 @@
     <img src="https://user-images.githubusercontent.com/108017025/175107973-c8f7ef8d-5803-45ca-9cbe-c2268cbe35ea.png" height="40px" weight="35px">
  </a>
 <a href="https://discord.com/users/818236451585654834" target="_blank">
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ferraari)](https://github.com/ferraari)
