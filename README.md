@@ -5,7 +5,7 @@
     I am <strong>beginner developer</strong>, Java enthusiast, 
      I love high-level programming languages.
 
-
+This profile is intended for codes involving games and hobbies.
 More projects [here](https://github.com/muriloliraa)
   </p>
 @@ -20,10 +20,10 @@
