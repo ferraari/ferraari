@@ -6,7 +6,7 @@
      I love high-level programming languages.
 
 
-GITHUB DESATIVADO, NOVO: [Clique aqui](https://github.com/muriloliraa)
+More projects [here](https://github.com/muriloliraa)
   </p>
 @@ -20,10 +20,10 @@
   </p>
